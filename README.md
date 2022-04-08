@@ -7,7 +7,9 @@
 
 
 ## :computer:	 Technologies
- **:zap: HTML5, CSS, JavaScript.**<br>
+ **:zap: HTML5
+ :zap: CSS
+ :zap: JavaScript**<br>
 
   
 ## :mechanical_arm: Skills developed
