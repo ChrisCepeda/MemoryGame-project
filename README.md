@@ -1,14 +1,14 @@
 
 # :sparkles:	 Memory Game :sparkles:	 :unicorn:
 ## :page_facing_up: Brief
- **:zap:Creating a game and storing game data using date and local storage **<br>
- **:zap:The team choose to build a Memory Game** <br>
+ **:zap: Creating a game and storing game data using date and local storage **<br>
+ **:zap: The team choose to build a Memory Game** <br>
 
 
 
 ## :computer:	 Technologies
- **:zap: HTML5
- :zap: CSS
+ **:zap: HTML5 <br>
+ :zap: CSS <br>
  :zap: JavaScript**<br>
 
   
