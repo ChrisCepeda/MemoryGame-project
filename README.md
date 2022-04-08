@@ -18,10 +18,10 @@
  :zap: Create board, arrange cards and flip cards functions.<br>
  :zap: Check for match and replay function.<br>
   :zap: Also create a timer function that starts with first flipped card.<br>
-   :zap: And last, save the high score in local storage .**<br>
+   :zap: And last, store the time in local storage .**<br>
             
  ## :dancing_women: Team 
-  **:zap: Johan <br>
+   **:zap: Johan <br>
     :zap: Tintin <br>
     :zap: Christina <br>
     :zap: Birk **
