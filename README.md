@@ -1,7 +1,7 @@
 
 # :sparkles:	 Memory Game :sparkles:	 
 ## :page_facing_up: Brief
- **:zap: Creating a game and storing game data using date and local storage **<br>
+ **:zap: Creating a game and storing game data using date and local storage <br>
  **:zap: The team choose to build a Memory Game** <br>
 
 
@@ -20,7 +20,7 @@
   :zap: Also create a timer function that starts with first flipped card.<br>
    :zap: And last, save the high score in local storage .**<br>
             
- ## :Woman with Bunny Ears: Team 
+ ## :👯: Team 
   **:zap: Johan <br>
     :zap: Tintin <br>
     :zap: Christina <br>
