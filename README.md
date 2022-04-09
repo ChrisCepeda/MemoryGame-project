@@ -11,7 +11,7 @@
  :zap: Code collaboration through GIT and GitHub. <br>
  :zap: Project timeline and schedule.**<br>
 
-## :computer:	 Technologies
+## :computer:	 Technologies & Tools
  **:zap: HTML5 <br>
  :zap: CSS <br>
  :zap: JavaScript<br>
@@ -23,8 +23,7 @@
 ## :mechanical_arm: Skills developed
  **:zap: Practicing an Agile workflow developing the product in sprints.
   :zap: Evolving our code collaboration skills trough GIT and GitHub.  
- :zap: Creating a CSS grid layout containing each card.  
- :zap: Using the CSS grid layout for the memory cards.      
+ :zap: Creating a CSS grid layout containing each card.       
  :zap: Defining the variables and data in JavaScript.        
  :zap: Create board, arrange cards and flip cards functions.<br>
  :zap: Check for match and replay function.<br>
@@ -32,7 +31,7 @@
    :zap: And last, store the time in local storage.**<br>
             
  ## :dancing_women: Team 
- **:zap: Johan <br>
+ **:zap: Birk <br>
     :zap: Tintin <br>
     :zap: Christina <br>
-    :zap: Birk**
+    :zap: Johan**
