@@ -31,7 +31,7 @@
    :zap: And last, store the time in local storage.**<br>
             
  ## :dancing_women: Team 
- **:zap: Birk <br>
-    :zap: Tintin <br>
-    :zap: Christina <br>
-    :zap: Johan**
+- [Birk Kensén](https://github.com/ChrisCepeda)
+- [Johan Klingström](https://github.com/maybelittlebitjk)
+- [Tintin Hamrin](https://github.com/TintinHamrin)
+- [Christina Cepeda](https://github.com/ChrisCepeda)
