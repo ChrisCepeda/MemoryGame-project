@@ -21,8 +21,8 @@
 
   
 ## :mechanical_arm: Skills developed
- **:zap: Practicing an Agile workflow developing the product in sprints.
-  :zap: Evolving our code collaboration skills trough GIT and GitHub.  
+ **:zap: Practicing an Agile workflow developing the product in sprints.<br>
+  :zap: Evolving our code collaboration skills trough GIT and GitHub. <br> 
  :zap: Creating a CSS grid layout containing each card.       
  :zap: Defining the variables and data in JavaScript.        
  :zap: Create board, arrange cards and flip cards functions.<br>
